@@ -16,7 +16,7 @@ Screenshots from Google Play
 The application was written during 1-2 weeks during Q2 2014. 
 
 Main contributors: 
- * Markus Larsson (@karlmarkuslarsson)
- * Filip Lindqvist (@tkhduracell)
- * Fredrik Lindman (@fredrikpersson)
+ * Markus Larsson - [@karlmarkuslarsson](https://github.com/karlmarkuslarsson)
+ * Filip Lindqvist - [@tkhduracell](https://github.com/tkhduracell)
+ * Fredrik Lindman - [@fredrikpersson](https://github.com/fredrikpersson)
 
